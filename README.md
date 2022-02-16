@@ -26,7 +26,26 @@ Attributes in Red Wine Quality and White Wine Quality dataset:
     1. Fixed Acidity
     
     2. Volatile Acidity
-
+    
+    3. Citric Acid
+    
+    4. Residual Sugar
+    
+    5. Chlorides
+    
+    6. Free Sulfur Dioxide
+    
+    7. Total Sulfur Dioxide
+    
+    8. Density
+    
+    9. pH
+    
+    10. Sulphates
+    
+    11. Alcohol
+    
+    12. Quality (Score between 0-10 and has median os at least 3 evaluations made by wine experts)
 
 
 Preference:
