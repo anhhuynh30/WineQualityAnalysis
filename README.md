@@ -22,7 +22,9 @@ The datasets for red and white wine used in this project can be found via this l
 
 
 Attributes in Red Wine Quality and White Wine Quality dataset:
+
     1. Fixed Acidity
+    
     2. Volatile Acidity
 
 
