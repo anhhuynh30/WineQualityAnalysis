@@ -45,7 +45,7 @@ Attributes in Red Wine Quality and White Wine Quality dataset:
     
     11: Alcohol
     
-    12: Quality (Score between 0-10 and has median os at least 3 evaluations made by wine experts)
+    12: Quality (Score between 0-10 and has median of at least 3 evaluations made by wine experts)
 
 
 Preference:
