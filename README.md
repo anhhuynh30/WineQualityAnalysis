@@ -21,6 +21,12 @@ The datasets for red and white wine used in this project can be found via this l
 [White Wine Quality](https://www.kaggle.com/piyushagni5/white-wine-quality)
 
 
+Attributes in Red Wine Quality and White Wine Quality dataset:
+    1. Fixed Acidity
+    2. Volatile Acidity
+
+
+
 Preference:
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
