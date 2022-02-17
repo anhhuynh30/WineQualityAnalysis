@@ -23,32 +23,29 @@ The datasets for red and white wine used in this project can be found via this l
 
 Attributes in Red Wine Quality and White Wine Quality dataset:
 
-    1: Fixed Acidity
+- Fixed Acidity
     
-    2: Volatile Acidity
+- Volatile Acidity
     
-    3: Citric Acid
+- Citric Acid
     
-    4: Residual Sugar
+- Residual Sugar
     
-    5: Chlorides
+- Chlorides
     
-    6: Free Sulfur Dioxide
+- Free Sulfur Dioxide
     
-    7: Total Sulfur Dioxide
+- Total Sulfur Dioxide
     
-    8: Density
+- Density
     
-    9: pH
+- pH
     
-    10: Sulphates
+- Sulphates
     
-    11: Alcohol
+- Alcohol
     
-    12: Quality (Score between 0-10 and has median of at least 3 evaluations made by wine experts)
-- fjgfjgf
-- jhfjhfjg
-- jfjgfjg
+- Quality (Score between 0-10 and has median of at least 3 evaluations made by wine experts)
 
 
 Preference:
